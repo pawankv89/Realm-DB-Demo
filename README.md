@@ -74,6 +74,14 @@ realm.deleteAll()
 
 ```
 
+
+## References
+
+https://realm.io/docs/swift/latest
+
+https://forums.realm.io/
+
+
 ## License
 
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
