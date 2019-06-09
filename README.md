@@ -2,7 +2,13 @@
 Realm DB Demo
 =========
 
-## Add user details in coredata
+## What is Realm?
+
+Realm is a mobile database
+
+Realm is a replacement for SQLite & Core Data.
+It can save you thousands of lines of code & weeks of work,
+and lets you craft amazing new user experiences.
 ------------
  Added Some screens here.
  
